@@ -4,6 +4,9 @@
     --fondo: #000;
     --figura: #ddd;
 }
+h1{
+	color: yellow;
+}
 
 * {
     margin: 0;
